@@ -13,3 +13,4 @@ Each file prints its answer and how long it took.
 ## Progress
 
 - [ ] [Problem 1 — Multiples of 3 or 5](problems/p001.py)
+- [x] [Problem 5 — Smallest Multiple](problems/p005.py)
