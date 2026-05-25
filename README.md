@@ -16,3 +16,4 @@ Each file prints its answer and how long it took.
 - [x] [Problem 5 — Smallest Multiple](problems/p005.py)
 - [x] [Problem 10 — Summation of Primes](problems/p010.py)
 - [x] [Problem 12 — Highly Divisible Triangular Number](problems/p012.py)
+- [x] [Problem 25 — 1000-digit Fibonacci Number](problems/p025.py)
